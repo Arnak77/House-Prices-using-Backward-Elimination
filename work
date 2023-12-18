@@ -1,0 +1,10 @@
+House Prices using Backward Elimination-:
+Just started with machine learning. I have used backward Elimination to check the usefulness of dependent variables.
+
+importing all the libraries
+checking if any value is missing
+checking for categorical data
+dropping the id and date column
+understanding the distribution with seaborn
+Predicting the Test set results
+Backward Elimination
